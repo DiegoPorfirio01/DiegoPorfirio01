@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Diego Porfírio</h1>
+<h1 align="center">Oi 👋, Eu Sou Diego Porfírio</h1>
 <h3 align="center">Estudante de analise e desenvolvimento de sistemas na Uniasselvi</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-porfirio-b26040210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-porfirio-b26040210/" height="30" width="40" /></a>
 </p>

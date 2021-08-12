@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu Sou Diego Porfírio</h1>
-<h3 align="center">Estudante de analise e desenvolvimento de sistemas na Uniasselvi</h3>
+<h3 align="center">Estudante de analise e desenvolvimento de sistemas</h3>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">

@@ -1,6 +1,8 @@
 <h1 align="center">Bem-Vindo (a)👋</h1>
 <h3 align="center">Estudante de analise e desenvolvimento de sistemas</h3>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoporfirio01&show_icons=true&locale=en" alt="Stats" />
+</p>
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diego-porfirio-b26040210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-porfirio-b26040210/" height="30" width="40" /></a>

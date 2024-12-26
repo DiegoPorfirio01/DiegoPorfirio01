@@ -39,7 +39,7 @@
 - Terraform
 - GitActions
 - Docker
-- 
+
 ---
 
 ## Technology Usage

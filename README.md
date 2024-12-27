@@ -14,6 +14,7 @@
 - JavaScript
 - TypeScript
 - PHP7/8+
+- Java 21
 
 ### Frontend
 - React.js
@@ -28,6 +29,7 @@
 - Fastify
 - NestJS
 - Laravel
+- Spring Boot
 - REST API
 - Prisma
 - PostgreSQL

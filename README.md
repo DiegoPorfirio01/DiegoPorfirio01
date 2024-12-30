@@ -14,7 +14,6 @@
 - JavaScript
 - TypeScript
 - PHP7/8+
-- Java 21
 
 ### Frontend
 - React.js

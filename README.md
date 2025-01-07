@@ -29,7 +29,6 @@
 - NestJS
 - Laravel
 - Spring Boot
-- REST API
 - Prisma
 - PostgreSQL
 

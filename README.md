@@ -20,6 +20,7 @@
 - Next.js
 - Tailwind CSS
 - Redux
+- Zustand
 - TanStack Query (React Query)
 
 ### Backend
@@ -28,7 +29,6 @@
 - Fastify
 - NestJS
 - Laravel
-- Spring Boot
 - Prisma
 - PostgreSQL
 

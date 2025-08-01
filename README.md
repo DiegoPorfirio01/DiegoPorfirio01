@@ -18,10 +18,11 @@
 ### Frontend
 - React.js
 - Next.js
+- Vue 3
 - Tailwind CSS
 - Redux
 - Zustand
-- TanStack Query (React Query)
+- TanStack
 
 ### Backend
 - Node.js
